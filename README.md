@@ -1,3 +1,4 @@
+# Portfolio
 https://caitkidd.github.io/UpdatedPortforlio/
 <br>
 <br>
@@ -6,12 +7,10 @@ https://caitkidd.github.io/UpdatedPortforlio/
 <br>
 <br>
 <br>
-# User Story
-AS AN employer<br>
-I WANT to view a potential employee's deployed portfolio of work samples<br>
-SO THAT I can review samples of their work and assess whether they're a<br>
-good candidate for an open position<br>
-
+## Technologies Used
+HTML<br>
+CSS<br>
+<br>
 ## Acceptance Criteria
 GIVEN I need to sample a potential employee's previous work<br>
 WHEN I load their portfolio<br>
@@ -26,3 +25,8 @@ WHEN I click on the images of the applications<br>
 THEN I am taken to that deployed application<br>
 WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
+<br>
+## Portfolio Navigation
+On my portfolio page in the tap nav bar you have my about me, work, contact me, and resume. When clicking on each they will go to that section on my website.<br>
+When you click on my resume a pdf link is uploaded. As you scroll down to work I have done, when clicking on each picture it will pull up my websites that<br>
+I have created. When you get to the bottom of the page where my contact information it, when clicking on each one it will take you to my personal websites.<br>
