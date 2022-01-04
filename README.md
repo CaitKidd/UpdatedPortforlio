@@ -1,5 +1,11 @@
 https://caitkidd.github.io/UpdatedPortforlio/
-
+<br>
+<br>
+<br>
+<img width="1371" alt="Screen Shot 2022-01-04 at 4 27 51 PM" src="https://user-images.githubusercontent.com/88734760/148137917-618d220b-0491-4b66-9c7d-5615f4092566.png">
+<br>
+<br>
+<br>
 # User Story
 AS AN employer<br>
 I WANT to view a potential employee's deployed portfolio of work samples<br>
