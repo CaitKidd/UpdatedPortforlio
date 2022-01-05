@@ -1,9 +1,12 @@
 # Portfolio
 https://caitkidd.github.io/UpdatedPortforlio/
-<br>
-<br>
+
 <br>
 <img width="1371" alt="Screen Shot 2022-01-04 at 4 27 51 PM" src="https://user-images.githubusercontent.com/88734760/148137917-618d220b-0491-4b66-9c7d-5615f4092566.png">
+<br>
+<img width="1370" alt="Screen Shot 2022-01-04 at 4 42 02 PM" src="https://user-images.githubusercontent.com/88734760/148147095-dc2b9c62-2e77-4726-9930-32d292d6d3e5.png">
+<br>
+<img width="1371" alt="Screen Shot 2022-01-04 at 4 41 51 PM" src="https://user-images.githubusercontent.com/88734760/148147140-909999cb-976b-4141-9dd8-49ddb606006c.png">
 <br>
 <br>
 <br>
